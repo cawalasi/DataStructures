@@ -1,6 +1,6 @@
 package DataStructure;
 
-public class quickS {
+public class quickSort {
 	public static void swap (int arr [], int m1, int m2) {
 		int temp = arr[m1];
 		arr[m1] = arr[m2];
