@@ -1,6 +1,6 @@
 package DataStructure;
 
-public class mergeS {
+public class mergeSort {
 
 	private static void merge(int[] arr, int start, int mid , int end) {
 		
