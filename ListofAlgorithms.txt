@@ -1,0 +1,8 @@
+This is just a list of algorithims I have implemented in Java.
+
+1.Quick Sort
+2.Merge Sort
+3.Linked List
+4.Max Heap
+5.Min Heap
+
