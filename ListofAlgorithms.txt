@@ -6,3 +6,4 @@ This is just a list of algorithims I have implemented in Java.
 4.Max Heap
 5.Min Heap
 6.Insertion
+7.Union Find
